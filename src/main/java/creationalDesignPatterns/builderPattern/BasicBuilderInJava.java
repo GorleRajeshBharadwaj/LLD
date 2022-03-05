@@ -1,4 +1,4 @@
-package creationalDesignPatterns;
+package creationalDesignPatterns.builderPattern;
 
 public class BasicBuilderInJava {
 	
